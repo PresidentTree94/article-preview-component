@@ -188,12 +188,12 @@ a {
   section > img {
     border-radius: 0.625rem 0.625rem 0 0; /*10px*/
     object-position: top;
-    max-height: 13.5rem;
+    max-height: 13.5rem; /*216px*/
     max-width: 100%;
   }
 
   article {
-    padding: 2.1875rem 2.1875rem 0;
+    padding: 2.1875rem 2.1875rem 0; /*35px*/
   }
 
   h1 {
@@ -219,7 +219,7 @@ a {
     top: 0;
     left: 50%;
     transform: translateX(-50%);
-    border-radius: 0 0 10px 10px;
+    border-radius: 0 0 0.625rem 0.625rem; /*10px*/
   }
 
   #bubble:after {
