@@ -11,8 +11,8 @@ As part of the [Javascript fundamentals](https://www.frontendmentor.io/learning-
 I added Dark Mode to the website. The `alt-mode` folder contains a separate README explaining how it works. The button is located in the top-right corner of the page and scales down slightly when selected.
 
 ### Links
-- Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/four-card-feature-section-VILMXR5SVO)
-- Live Site URL: [GitHub Page](https://presidenttree94.github.io/testimonials-grid-section/)
+- Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/article-preview-component-DBye-Mj1xW)
+- Live Site URL: [GitHub Page](https://presidenttree94.github.io/article-preview-component/)
 
 ## Authors
 - GitHub Profile: [PresidentTree94](https://github.com/PresidentTree94)
